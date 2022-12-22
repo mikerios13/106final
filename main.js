@@ -378,7 +378,7 @@ var startButtonTicTacToe = new Button({
 var splash = function ()
 {
     
-    background(0, 225, 255);
+    background(255, 255,0);
     textSize(35);
     text("Mini Games", 100, 0);
     text("By: Mike Rios", 90, 40);
